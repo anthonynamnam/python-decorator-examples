@@ -1,2 +1,2 @@
-# Python Decorator Example
+# Python Decorator Examples
 
